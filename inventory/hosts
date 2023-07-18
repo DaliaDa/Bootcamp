@@ -1,13 +1,13 @@
 [all]
-172.31.50.47
-172.31.49.209
-172.31.50.211
+172.31.50.47 ansible_user=ubuntu
+172.31.49.209 ansible_user=ubuntu
+172.31.50.211 ansible_user=ubuntu
 
 [frontend]
-172.31.50.47
+172.31.50.47 ansible_user=ubuntu
 
 [backend]
-172.31.49.209
-172.31.50.211
+172.31.49.209 ansible_user=ubuntu
+172.31.50.211 ansible_user=ubuntu
 
   
